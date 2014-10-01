@@ -1,3 +1,4 @@
+
 #Getsquare_AdminPayments (Alvie)
 A Magento extension which allows compatible Payment Methods to be enabled for the Admin (backend) only.
 
