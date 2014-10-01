@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Esmart_AdminPayments>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Esmart_AdminPayments>
+    </modules>
+</config>

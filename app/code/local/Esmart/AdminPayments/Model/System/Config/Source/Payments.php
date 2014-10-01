@@ -1,10 +1,6 @@
 <?php
-/**
- * @package     Getsquare_AdminPayments
- * @author      Getsquare magento@getsquare.co.uk
- * @copyright   2014 GetSquare
- */
-class Getsquare_AdminPayments_Model_System_Config_Source_Payments
+
+class Esmart_AdminPayments_Model_System_Config_Source_Payments
 {
     /**
      * Options getter
